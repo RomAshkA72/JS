@@ -1,2 +1,5 @@
-console.log("Hello World")
-console.log("Test")
+multiply = function (a, b) {
+    return a * b;
+  }
+
+  console.log(multiply);
